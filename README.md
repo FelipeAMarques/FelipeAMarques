@@ -15,5 +15,3 @@
   <a href="https://www.linkedin.com/in/felipe-a-marques-4aa855256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/FelipeAMarques/FelipeAMarques/blob/output/github-contribution-grid-snake.svg)
