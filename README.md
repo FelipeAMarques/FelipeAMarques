@@ -1,4 +1,4 @@
-## Hello World! Eu sou Felipe Marques!
+## Hello World!
 
 <div>
 <picture>
